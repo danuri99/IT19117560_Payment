@@ -20,7 +20,7 @@ pageEncoding="ISO-8859-1"%>
 
 
 
-<h1>Items Management</h1>
+<h1>Payment Management</h1>
 <form id="formPayment" name="formPayment">
  PaymentID:
  <input id="paymentId" name="paymentId" type="text"
